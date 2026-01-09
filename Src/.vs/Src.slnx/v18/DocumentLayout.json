@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B81846DF-EABF-485C-B97E-3FCD2BB5D611}|Lesson01\\Lesson01.csproj|d:\\99.zerotohero\\01.c_sharp\\src\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81846DF-EABF-485C-B97E-3FCD2BB5D611}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B8A0244-C7B3-4C62-BAD4-F3B3ADB4BA7B}|Lesson02\\Lesson02.csproj|d:\\99.zerotohero\\01.c_sharp\\src\\lesson02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8A0244-C7B3-4C62-BAD4-F3B3ADB4BA7B}|Lesson02\\Lesson02.csproj|solutionrelative:lesson02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE93DA-7103-C895-C4A2-8AE42BBB2749}|Lesson01\\Lesson01.csproj|d:\\99.zerotohero\\01.c_sharp\\src\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CE93DA-7103-C895-C4A2-8AE42BBB2749}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8A0244-C7B3-4C62-BAD4-F3B3ADB4BA7B}|Lesson02\\Lesson02.csproj|d:\\99.zerotohero\\01.c_sharp\\src\\lesson02\\lesson02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B8A0244-C7B3-4C62-BAD4-F3B3ADB4BA7B}|Lesson02\\Lesson02.csproj|solutionrelative:lesson02\\lesson02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson02",
+              "DocumentMoniker": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Lesson02.csproj",
+              "RelativeDocumentMoniker": "Lesson02\\Lesson02.csproj",
+              "ToolTip": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Lesson02.csproj",
+              "RelativeToolTip": "Lesson02\\Lesson02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T14:38:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson02\\Program.cs",
+              "ToolTip": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Program.cs",
+              "RelativeToolTip": "Lesson02\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:50:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson01\\Program.cs",
               "RelativeDocumentMoniker": "Lesson01\\Program.cs",
               "ToolTip": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson01\\Program.cs",
               "RelativeToolTip": "Lesson01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:46:44.345Z",
               "EditorCaption": ""

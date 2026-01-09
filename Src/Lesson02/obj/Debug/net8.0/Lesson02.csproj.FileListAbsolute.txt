@@ -1,0 +1,15 @@
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\bin\Debug\net8.0\Lesson02.exe
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\bin\Debug\net8.0\Lesson02.deps.json
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\bin\Debug\net8.0\Lesson02.runtimeconfig.json
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\bin\Debug\net8.0\Lesson02.dll
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\bin\Debug\net8.0\Lesson02.pdb
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.GeneratedMSBuildEditorConfig.editorconfig
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.AssemblyInfoInputs.cache
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.AssemblyInfo.cs
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.csproj.CoreCompileInputs.cache
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.sourcelink.json
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.dll
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\refint\Lesson02.dll
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.pdb
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\Lesson02.genruntimeconfig.cache
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson02\obj\Debug\net8.0\ref\Lesson02.dll
