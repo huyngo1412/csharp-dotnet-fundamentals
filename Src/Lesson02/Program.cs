@@ -140,6 +140,7 @@ namespace Lesson02
 
             Console.WriteLine();
 
+            
             /*
              * 6) Kiểu dữ liệu object
              *

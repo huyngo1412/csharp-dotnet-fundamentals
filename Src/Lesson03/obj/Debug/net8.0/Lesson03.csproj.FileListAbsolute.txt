@@ -1,0 +1,15 @@
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\bin\Debug\net8.0\Lesson03.exe
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\bin\Debug\net8.0\Lesson03.deps.json
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\bin\Debug\net8.0\Lesson03.runtimeconfig.json
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\bin\Debug\net8.0\Lesson03.dll
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\bin\Debug\net8.0\Lesson03.pdb
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.AssemblyInfoInputs.cache
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.AssemblyInfo.cs
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.csproj.CoreCompileInputs.cache
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.sourcelink.json
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.dll
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\refint\Lesson03.dll
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.pdb
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\Lesson03.genruntimeconfig.cache
+E:\00.Study\02.DOTNET\csharp-dotnet-fundamentals\Src\Lesson03\obj\Debug\net8.0\ref\Lesson03.dll
